@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Re4Tool", "src\Re4Tool\Re4Tool.csproj", "{B395EDE0-2A2F-48D3-9EBF-68ED85712C41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD8C5EF3-2665-45C5-8BD2-89B9DA5980F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9381EF2-035B-4EC1-A295-EAA8D47C43A3}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B395EDE0-2A2F-48D3-9EBF-68ED85712C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B395EDE0-2A2F-48D3-9EBF-68ED85712C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B395EDE0-2A2F-48D3-9EBF-68ED85712C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B395EDE0-2A2F-48D3-9EBF-68ED85712C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B395EDE0-2A2F-48D3-9EBF-68ED85712C41} = {DD8C5EF3-2665-45C5-8BD2-89B9DA5980F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CBC6F87-CC81-497E-B325-CD8CEA6F0D2D}
+	EndGlobalSection
+EndGlobal
